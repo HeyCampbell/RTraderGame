@@ -192,6 +192,7 @@ else
     start_game
   else
     puts "Goodbye!"
+  end
 end
 
 start_game
